@@ -60,6 +60,4 @@ public class BuscaBinaria {
         int valor9 = 5;
         int posicao9 = buscaBinaria(array, valor9);
     }
-
-
 }

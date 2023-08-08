@@ -11,7 +11,6 @@ public class MergeSort {
     // construir o algoritmo de merge sort
     public static void mergeSort(int[] array) {
         mergeSort(array, 0, array.length - 1);
-
     }
 
     // construir o algoritmo de merge sort recursivo
