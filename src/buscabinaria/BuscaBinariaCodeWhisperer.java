@@ -3,7 +3,7 @@ package buscabinaria;
 /* Algoritmo eficiente para encontrar um elemento específico em uma lista ordenada.
 * Ele funciona dividindo repetidamente a lista ao meio e comparando o valor do elemento do meio com o valor que você esta procurando
 * Com base na comparaão, a busca é restrita a metade superior ou inferior da lista, reduzindo drasticamente o numero de elementos a serem considerados*/
-public class BuscaBinaria {
+public class BuscaBinariaCodeWhisperer {
     // construir o algoritmo de busca binaria
     public static int buscaBinaria(int[] array, int valor) {
         int inicio = 0;

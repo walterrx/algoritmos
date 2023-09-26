@@ -9,7 +9,7 @@ Lembre-se de que o Quick Sort pode ter um desempenho ruim em conjuntos de dados 
 
 *
 * */
-public class QuickSort {
+public class QuickSortCodeWhisperer {
 
     // construir o algoritmo de quicksort
     public static void quickSort(int[] array, int inicio, int fim) {

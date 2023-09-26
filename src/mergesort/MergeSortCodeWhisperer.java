@@ -6,7 +6,7 @@ package mergesort;
 O Merge Sort é conhecido por sua eficiência e estabilidade, mantendo a ordem relativa dos elementos iguais. Possui uma complexidade de tempo O(n log n), tornando-o uma escolha excelente para ordenar grandes quantidades de dados.
 
 Lembre-se de que o Merge Sort usa uma quantidade adicional de memória para os arrays temporários usados durante a mesclagem, o que pode ser uma consideração importante em cenários com restrições de memória.*/
-public class MergeSort {
+public class MergeSortCodeWhisperer {
 
     // construir o algoritmo de merge sort
     public static void mergeSort(int[] array) {
